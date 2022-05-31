@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kundanharitwal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in New Science technologies and Science Discovery and I like making android apps
+- 🌱 I’m currently learning HTML CSS JS
+- 💞️ I’m looking to collaborate on IT Sectore job
 - 📫 How to reach me kundanharitwal580@gmail.com
 
 <!---
